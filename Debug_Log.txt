@@ -1,1 +1,11 @@
-Debug_Log.txt
+Debug_Log.txt[2019-05-28 16:44:42 INFO] Starting Server
+[2019-05-28 16:44:42 INFO] Version 1.11.4.2
+[2019-05-28 16:44:42 INFO] Level Name: KP Server Bedrock Edition
+[2019-05-28 16:44:42 ERROR] xuid or permission missing from permissions file: permissions.json
+[2019-05-28 16:44:42 ERROR] xuid or permission missing from permissions file: permissions.json
+[2019-05-28 16:44:42 INFO] Game mode: 0 Survival
+[2019-05-28 16:44:42 INFO] Difficulty: 2 NORMAL
+[2019-05-28 16:44:43 INFO] IPv4 supported, port: 19132
+[2019-05-28 16:44:43 INFO] IPv6 supported, port: 19133
+[2019-05-28 16:44:45 INFO] Server started.
+[2019-05-28 16:45:06 INFO] Player connected: BandannaMonkey, xuid: 2535415782493813
