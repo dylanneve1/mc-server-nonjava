@@ -21,6 +21,15 @@
 	
 	{
 		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "VzCEdb9H7nOYUBXA177ySdOX3gxrQzaFlyvMCsaSY8U=" ],
+		"path" : "resource_packs/shaderspack.zip",
+		"uuid" : "f0931717-6882-37fc-a4b3-0e2f6c5d3b93",
+		"version" : "1.0.2"
+	},
+	
+	{
+		"file_system" : "RawPath",
 		"path" : "resource_packs/chemistry",
 		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
 		"version" : "1.0.0"

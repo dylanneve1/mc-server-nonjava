@@ -1,1 +1,12 @@
-Debug_Log.txt
+Debug_Log.txt[2019-05-30 22:56:15 INFO] Starting Server
+[2019-05-30 22:56:15 INFO] Version 1.11.4.2
+[2019-05-30 22:56:15 INFO] Level Name: Jahcraft
+[2019-05-30 22:56:15 ERROR] xuid or permission missing from permissions file: permissions.json
+[2019-05-30 22:56:15 ERROR] xuid or permission missing from permissions file: permissions.json
+[2019-05-30 22:56:15 INFO] Game mode: 0 Survival
+[2019-05-30 22:56:15 INFO] Difficulty: 2 NORMAL
+[2019-05-30 22:56:17 INFO] IPv4 supported, port: 19132
+[2019-05-30 22:56:17 INFO] IPv6 supported, port: 19133
+[2019-05-30 22:56:18 INFO] Server started.
+[2019-05-30 22:57:09 INFO] Player connected: BandannaMonkey, xuid: 2535415782493813
+[2019-05-30 22:59:04 INFO] Player disconnected: BandannaMonkey, xuid: 2535415782493813

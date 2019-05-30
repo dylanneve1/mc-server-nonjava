@@ -1,14 +1,18 @@
 [
-    {
-        "permission": "operator",
-        "xuid": "2535415782493813"
-    },
-    {
-        "permission": "member",
-        "xuid": ""
-    },
-    {
-        "permission": "visitor",
-        "xuid": ""
-    }
+   {
+      "permission" : "operator",
+      "xuid" : "2535415782493813"
+   },
+   {
+      "permission" : "member",
+      "xuid" : ""
+   },
+   {
+      "permission" : "visitor",
+      "xuid" : ""
+   },
+   {
+      "permission" : "operator",
+      "xuid" : "2535450765249374"
+   }
 ]
