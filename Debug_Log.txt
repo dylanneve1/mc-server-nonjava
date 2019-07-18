@@ -1,1 +1,1 @@
-Debug_Log.txt[2019-06-01 14:23:03 INFO] Player disconnected: BandannaMonkey, xuid: 2535415782493813
+Debug_Log.txt
